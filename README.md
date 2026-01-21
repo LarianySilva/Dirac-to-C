@@ -11,4 +11,4 @@ Não é nada muito refinado,mas uma base para entender.
 
 ## 🛠️ Tecnologias:
 - **Octave**: Para verificação de certos resultados.
-- **C**: Para construção do simulação base.
+- **C**: Para construção da simulação base.
