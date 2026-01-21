@@ -10,5 +10,5 @@ Não é nada muito refinado,mas uma base para entender.
 - Produto de Kronecker para sistemas multi-qubit.
 
 ## 🛠️ Tecnologias:
-- **Octave**: Para validação de álgebra linear.
-- **C**: Para construção do simulador quântico base.
+- **Octave**: Para verificação de certos resultados.
+- **C**: Para construção do simulação base.
