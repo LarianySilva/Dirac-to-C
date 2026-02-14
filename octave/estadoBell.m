@@ -54,18 +54,5 @@ fprintf('número do sortei: %f\n',sort);
 fprintf('Resultado da medição:%s\n',resultado_medicao);
 %------------------------------------------------------------------
 
-cont_00 = 0;
-cont_11 = 0;
 
-for i = 1:1000
-    if rand() <= 0.5
-        cont_00++;
-    else
-        cont_11++;
-    end
-end
-
-disp(['Em 1000 medidas, obtivemos:']);
-disp(['|00>: ', num2str(cont_00)]);
-disp(['|11>: ', num2str(cont_11)]);
 
