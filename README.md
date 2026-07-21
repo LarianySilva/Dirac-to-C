@@ -14,7 +14,7 @@ Não é nada muito refinado,mas uma base para entender.
 - **C**: Para construção da simulação base.
 - **Python**:Para fazer gráficos e transformar os dados em imagens.
 
-> **Nota:** Se o Python der erro de `file not found`, é só conferir se o terminal está na pasta certa ou se o ficheiro foi parar à pasta `output`.
+> **Nota:** Se o Python der erro de `file not found`, é só conferir se o terminal está na pasta certa ou se o ficheiro foi para a pasta `output`.
 
 ---
 *Esse repositório é voltado mais para testes de ideias, por isso o código pode parece "mal feito", mas a ideia é entender e quem sabe me aprofundar!* 🧪
